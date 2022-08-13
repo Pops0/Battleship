@@ -3,11 +3,16 @@ The classic battleship game
 
 ## The board is displayed as followed: 
 
+ 0 0 0 0 0
+ 
  0 0 0 0 0 
+ 
  0 0 0 0 0 
+ 
+ 0 0 0 0 0
+ 
  0 0 0 0 0 
- 0 0 0 0 0 
- 0 0 0 0 0 
+
  x
  y
  
