@@ -14,6 +14,7 @@ The classic battleship game
  0 0 0 0 0 
 
  x
+ 
  y
  
 ## Explanation:
